@@ -1,0 +1,25 @@
+<svg width="1280" height="410" viewBox="0 0 1280 410" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_611_3001)">
+<g style="mix-blend-mode:overlay">
+<path opacity="0.22" d="M226 414L226 176.298C226 76.1699 144.83 -5 44.7019 -5L-126 -5L-126 414L226 414Z" fill="#F5C4A5"/>
+<path opacity="0.22" d="M159 410L159 172.298C159 72.1699 77.8301 -9 -22.2981 -9L-150 -9L-150 410L159 410Z" fill="#F5C4A5"/>
+<path opacity="0.22" d="M107 410L107 172.298C107 72.1699 25.8301 -9 -74.2981 -9H-137L-137 410L107 410Z" fill="#F5C4A5"/>
+</g>
+<g style="mix-blend-mode:overlay">
+<path opacity="0.22" d="M1054 418L1054 180.298C1054 80.1699 1135.17 -1 1235.3 -1L1406 -1L1406 418L1054 418Z" fill="#F5C4A5"/>
+<path opacity="0.22" d="M1121 414L1121 176.298C1121 76.1699 1202.17 -5 1302.3 -5L1430 -5L1430 414L1121 414Z" fill="#F5C4A5"/>
+<path opacity="0.22" d="M1173 414L1173 176.298C1173 76.1699 1254.17 -5 1354.3 -5H1417L1417 414L1173 414Z" fill="#F5C4A5"/>
+</g>
+<path opacity="0.2" d="M107 283L142.005 275.024C143.712 274.635 145.059 276.47 144.177 277.982L127.255 306.992C126.477 308.326 127.438 310 128.982 310H163.743C165.344 310 166.296 311.788 165.402 313.117L152.098 332.883C151.204 334.212 152.156 336 153.757 336H185.337C186.919 336 187.875 337.75 187.019 339.082L180 350" stroke="#F5C4A5" stroke-width="3" stroke-linecap="round"/>
+<path opacity="0.2" d="M1173 287L1137.99 279.024C1136.29 278.635 1134.94 280.47 1135.82 281.982L1152.75 310.992C1153.52 312.326 1152.56 314 1151.02 314H1116.26C1114.66 314 1113.7 315.788 1114.6 317.117L1127.9 336.883C1128.8 338.212 1127.84 340 1126.24 340H1094.66C1093.08 340 1092.13 341.75 1092.98 343.082L1100 354" stroke="#F5C4A5" stroke-width="3" stroke-linecap="round"/>
+<circle opacity="0.5" cx="146" cy="134" r="21.5" stroke="#F5C4A5" stroke-width="3"/>
+<circle opacity="0.5" r="21.5" transform="matrix(-1 0 0 1 1134 138)" stroke="#F5C4A5" stroke-width="3"/>
+<circle opacity="0.5" cx="204.5" cy="41.5" r="8" stroke="#F5C4A5" stroke-width="3"/>
+<circle opacity="0.5" r="8" transform="matrix(-1 0 0 1 1075.5 45.5)" stroke="#F5C4A5" stroke-width="3"/>
+</g>
+<defs>
+<clipPath id="clip0_611_3001">
+<rect width="1280" height="410" fill="white"/>
+</clipPath>
+</defs>
+</svg>

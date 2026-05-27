@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="410" viewBox="0 0 1280 410" fill="none">
+  <g clip-path="url(#clip0_657_621)">
+    <path opacity="0.1" d="M226 0V0C188.047 0 153.93 23.1431 139.899 58.4071L2.74181e-06 410H226V0Z" fill="#F5C4A5"></path>
+    <path opacity="0.2" d="M226 123L190.36 99.3985C109.26 45.6923 1.00001 103.846 1.00001 201.117V410H226V123Z" fill="#F5C4A5"></path>
+    <path opacity="0.2" d="M0 0V0C124.816 0 226 101.184 226 226V410H0V0Z" fill="#F5C4A5"></path>
+    <path opacity="0.1" d="M1054 0V0C1091.95 0 1126.07 23.1431 1140.1 58.4071L1280 410H1054V0Z" fill="#F5C4A5"></path>
+    <path opacity="0.2" d="M1054 123L1089.64 99.3985C1170.74 45.6923 1279 103.846 1279 201.117V410H1054V123Z" fill="#F5C4A5"></path>
+    <path opacity="0.2" d="M1280 0V0C1155.18 0 1054 101.184 1054 226V410H1280V0Z" fill="#F5C4A5"></path>
+    <path opacity="0.2" d="M173 239L208.005 231.024C209.712 230.635 211.059 232.47 210.177 233.982L193.255 262.992C192.477 264.326 193.438 266 194.982 266H229.743C231.344 266 232.296 267.788 231.402 269.117L218.098 288.883C217.204 290.212 218.156 292 219.757 292H251.337C252.919 292 253.875 293.75 253.019 295.082L246 306" stroke="#F5C4A5" stroke-width="3" stroke-linecap="round"></path>
+    <circle opacity="0.5" cx="80.5" cy="274.5" r="52" stroke="#F5C4A5" stroke-width="3"></circle>
+    <circle opacity="0.5" cx="149.5" cy="124.5" r="14" stroke="#F5C4A5" stroke-width="3"></circle>
+    <circle opacity="0.5" cx="204.5" cy="41.5" r="8" stroke="#F5C4A5" stroke-width="3"></circle>
+    <path opacity="0.2" d="M1107 239L1071.99 231.024C1070.29 230.635 1068.94 232.47 1069.82 233.982L1086.75 262.992C1087.52 264.326 1086.56 266 1085.02 266H1050.26C1048.66 266 1047.7 267.788 1048.6 269.117L1061.9 288.883C1062.8 290.212 1061.84 292 1060.24 292H1028.66C1027.08 292 1026.13 293.75 1026.98 295.082L1034 306" stroke="#F5C4A5" stroke-width="3" stroke-linecap="round"></path>
+    <circle opacity="0.5" r="52" transform="matrix(-1 0 0 1 1199.5 274.5)" stroke="#F5C4A5" stroke-width="3"></circle>
+    <circle opacity="0.5" r="14" transform="matrix(-1 0 0 1 1130.5 124.5)" stroke="#F5C4A5" stroke-width="3"></circle>
+    <circle opacity="0.5" r="8" transform="matrix(-1 0 0 1 1075.5 41.5)" stroke="#F5C4A5" stroke-width="3"></circle>
+  </g>
+  <defs>
+    <clipPath id="clip0_657_621">
+      <rect width="1280" height="410" fill="white"></rect>
+    </clipPath>
+  </defs>
+</svg>
